@@ -1,5 +1,2 @@
 -- "prueba del nuevo archivo" 
 -- "Comentario desde fork por Alejandro Chantre :v"
--- "prueba de conflicto"
--- "prueba numero 2 "
--- " la tercera es la vencida"
