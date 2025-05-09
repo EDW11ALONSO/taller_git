@@ -1,2 +1,3 @@
 -- "prueba del nuevo archivo" 
 -- "Comentario desde fork por Alejandro Chantre :v"
+--"Prueba desde otra rama para el conflicto"
